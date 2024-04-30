@@ -12,5 +12,6 @@ class ActorsController < ApplicationController
     
     render({ :template => "actor_templates/details"})
   end
+  
 
 end
